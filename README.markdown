@@ -2,10 +2,10 @@ OCT2 - a modified version of octopress classic theme (distributed under the same
 
 I've included modifications made by Alessandro Melandri. For details, see ["Octopress Theme Customization"](http://melandri.net/2012/02/14/octopress-theme-customization/). Also included are [css formatting for tables](http://programus.github.com/blog/2012/03/07/add-table-data-css-for-octopress/) and 4 icons from free-hand drawn [Sketch icons](http://www.charfishdesign.com/19-free-hand-drawn-sketch-icons/).
 
-If you want to enable MathJax,
+If you want to enable MathJax, which I've done,
 
 ```
-$ cd .themes/oct2/source/_includes/custom/
+$ cd .themes/robby-blog-theme/source/_includes/custom/
 $ cp head.mathjax.html head.html
 ```
 
